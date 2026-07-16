@@ -1,0 +1,15 @@
+{
+	"name": "adf-elatmani",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a8d39ce-872b-4d6c-914b-ef3a6a13eca7",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
